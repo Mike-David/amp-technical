@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "outDir": "../assets",
+      "module": "es6",
+      "target": "es5",
+      "allowJs": true,
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["src/**/*"]
+  }
+
+  

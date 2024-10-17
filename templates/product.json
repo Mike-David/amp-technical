@@ -1,0 +1,13 @@
+{
+  "sections": {
+    "main": {
+      "type": "amp-product",
+      "settings": {
+
+      }
+    },
+  },
+  "order": [
+    "main"
+  ]
+}
